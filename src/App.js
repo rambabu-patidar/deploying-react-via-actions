@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>React Page deployed on Github Pages with help of Github Actions.</h1>
       </header>
     </div>
   );
